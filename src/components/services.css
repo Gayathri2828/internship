@@ -1,0 +1,44 @@
+/* src/components/Services.css */
+
+.service {
+    background-color: #ff6f61;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .service__container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .service__content {
+    margin-bottom: 40px;
+  }
+  
+  .service__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .service__list li {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px 20px;
+    border-radius: 25px;
+    transition: background 0.3s;
+  }
+  
+  .service__list li span {
+    font-size: 24px;
+  }
+  
+  .service__list li:hover {
+    background: rgba(255, 255, 255, 0.2);
+  }
+  

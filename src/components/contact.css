@@ -1,0 +1,40 @@
+/* src/components/Contact.css */
+
+.contact {
+    padding: 50px 0;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .contact__container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact__form__container form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .form__group {
+    text-align: left;
+  }
+  
+  .form__group label {
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+  
+  .form__group input, .form__group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form__group input:focus, .form__group textarea:focus {
+    outline: none;
+    border-color: #ff6f61;
+  }
+  

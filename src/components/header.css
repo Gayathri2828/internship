@@ -1,0 +1,62 @@
+/* src/components/Header.css */
+
+
+.header {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./assets/ayodhya.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo a {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav__links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav__links li {
+    list-style: none;
+  }
+  
+  .nav__links a {
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  .nav__links a:hover {
+    color: #ff6f61;
+  }
+  
+  .header__container {
+    text-align: center;
+    padding-top: 200px;
+  }
+  
+  .header__container h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .header__container h1 span {
+    color: #ff6f61;
+  }
+  
+  .header__container p {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  

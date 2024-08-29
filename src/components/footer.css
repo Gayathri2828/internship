@@ -1,0 +1,35 @@
+/* src/components/Footer.css */
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .footer__content p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .social__links {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .social__links a {
+    color: white;
+    font-size: 20px;
+  }
+  
+  .social__links a:hover {
+    color: #ff6f61;
+  }
+  
