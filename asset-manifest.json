@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/internship/static/css/main.918dcbb0.css",
+    "main.js": "/internship/static/js/main.e07c2577.js",
+    "static/js/453.0abf9701.chunk.js": "/internship/static/js/453.0abf9701.chunk.js",
+    "static/media/out.jpg": "/internship/static/media/out.3f0345578753e5672b9b.jpg",
+    "static/media/flower.jpg": "/internship/static/media/flower.6ca69840b9c8e0d7cbcd.jpg",
+    "static/media/recep.jpg": "/internship/static/media/recep.0f616ee6d0575a5502b3.jpg",
+    "static/media/palash.webp": "/internship/static/media/palash.f542206031da97c86d08.webp",
+    "static/media/mithonDam.webp": "/internship/static/media/mithonDam.c652dcf8cb8fd3b68b44.webp",
+    "static/media/ayodhya.webp": "/internship/static/media/ayodhya.f15544cda482bc178192.webp",
+    "static/media/room1.jpg": "/internship/static/media/room1.7bb2016589e3a067e88c.jpg",
+    "static/media/small.jpg": "/internship/static/media/small.004ee162cd79856f18cc.jpg",
+    "static/media/large.jpg": "/internship/static/media/large.f6bdaca0cda5c1bc7251.jpg",
+    "static/media/baranti.webp": "/internship/static/media/baranti.54745f305a8ffb080bf3.webp",
+    "index.html": "/internship/index.html",
+    "main.918dcbb0.css.map": "/internship/static/css/main.918dcbb0.css.map",
+    "main.e07c2577.js.map": "/internship/static/js/main.e07c2577.js.map",
+    "453.0abf9701.chunk.js.map": "/internship/static/js/453.0abf9701.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.918dcbb0.css",
+    "static/js/main.e07c2577.js"
+  ]
+}
